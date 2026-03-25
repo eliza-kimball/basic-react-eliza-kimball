@@ -17,7 +17,7 @@ A simple Todo application built with React, Vite, and Tailwind CSS.
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/eliza-kimball/basic-react-eliza-kimball.git
 cd <your-repo-name>
 ```
 
